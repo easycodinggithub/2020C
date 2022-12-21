@@ -2,11 +2,11 @@
 
 // 헤더 파일 ( Header file ) : 함수를 불러옴. ex) printf, scanf
 
+// ===== 단축어 정리 =====
+
 // Shift + Delete : 한 줄 삭제
 
 // Tab : 자동 완성
-
-// Ctrl + D : 한 줄 복사 
 
 // Alt + 화살표 : 한 줄 이동
 
@@ -16,6 +16,7 @@
 
 // Ctrl + B : 빌드 
 
+// Ctrl + D : 한 줄 복사 
 
 int main() {
 
